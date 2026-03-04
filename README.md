@@ -1,5 +1,6 @@
-# **UNITY Team 18** (![GDD Document](https://github.com/Efe-Oral/Survival_of_the_Fallen/blob/main/Survival%20of%20the%20Fallen%20GDD.pdf))
+# **UNITY Team 18** ([GDD Document](https://github.com/Efe-Oral/Survival_of_the_Fallen/blob/main/Survival%20of%20the%20Fallen%20GDD.pdf)) ([Trailer](https://www.youtube.com/watch?v=s3aD69NZztM))
 
+![In game](https://github.com/user-attachments/assets/9c4d79f4-0a5e-469c-8e1a-495272b43856)
 
 # Product Information
 
@@ -210,5 +211,5 @@ Our game design process was evaluated, and it was decided that for sustainabilit
 
 - **Sprint Retrospective:** Communication was maintained throughout the entire sprint, and many planned items were abandoned due to time constraints. These contents were described in the Game Design Document, and it was stated that they could be added as additional content to the game in the future to prove the game's sustainability. 
 
-![GDD Document](https://github.com/Efe-Oral/Survival_of_the_Fallen/blob/main/Survival%20of%20the%20Fallen%20GDD.pdf)
+[GDD Document](https://github.com/Efe-Oral/Survival_of_the_Fallen/blob/main/Survival%20of%20the%20Fallen%20GDD.pdf)
 ---
