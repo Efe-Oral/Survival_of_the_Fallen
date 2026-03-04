@@ -1,10 +1,9 @@
-# **UNITY Takım 18**
+# **UNITY Team 18**
 
-Takım 18
 
-# Ürün İle İlgili Bilgiler
+# Product Information
 
-## Takım Elemanları
+## Team Members
 
 - Ahsen Beyza Özkul: Product Owner
 - Mert Gökçen Gültekin: Scrum Master
@@ -12,35 +11,35 @@ Takım 18
 - Ebrar Bakırtaş: Team Member/Developer
 - Firdes Beyzanur Şenocak: Team Member/Developer
 
-## Ürün İsmi
+## Product Name
 
 Survival of the Fallen
 
-## Ürün Açıklaması
+## Product Description
 
-Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceğimiz gerilim elementleriyle dolu ve hikayesiyle şaşırtacak bir oyun çıkarmayı planlıyoruz.
+With Survival of the Fallen, we plan to create a game filled with thriller elements that takes players deep into the depths of survival and surprises them with its story.
 
-## Ürün Özellikleri
+## Product Features
 
-- Gerilim sunan bir haritada hayvanlara ve diğer insanlara karşı hayatta kalma mekanikleri
-- Gerilim veren gece dinamikleri
-- Sürükleyici hikaye
-- Oyuna özel hayatta kalma mekanikleri
+- Survival mechanics against animals and other humans on a tension-filled map
+- Tense nighttime dynamics
+- Engaging story
+- Game-specific survival mechanics
 
 
 ## Hedef Kitle
 
-- Oyun severler
-- Gerilim severler
-- Hayatta kalma oyunlarını sevenler
-- 13 - 65 yaş arası kullanıcılar
+- Gaming enthusiasts
+- Thriller fans
+- Survival game lovers
+- Users aged 13–65
 
 ## Product Backlog URL
 
 - [Miro Backlog Board](https://miro.com/app/board/uXjVO4-qbAo=/)
 
 - Codes Repo
-  https://github.com/MertGult/survivalofthefallen
+  https://github.com/Efe-Oral/Survival_of_the_Fallen
 
 - Assets Drive
   https://1drv.ms/u/s!AoxS0cMTdCjjkke3iGyfLFM7USvj
@@ -49,143 +48,167 @@ Survival of the Fallen ile oyuncuları hayatta kalmanın derinliklerine ineceği
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notes:** User Stories are written inside the product backlog items. Story details can be read by clicking on the product backlog items.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Estimated points to be completed in the sprint:** 100 points.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Point completion logic:** There is a total of 300 points worth of backlog to be completed throughout the project. When divided into 3 sprints, it was decided that the first sprint should start with at least 100.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak task'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog order and Story selections:** Our backlog is organized according to the tasks to be done first. Selections are made in order so as not to exceed the estimated number of points per sprint. The estimated points per story are kept below half of the total points. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
+Stories have been divided into tasks. On the Miro Board, red items represent tasks to be done, yellow items represent tasks in progress, green items represent completed tasks, and blue items represent stories.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 1.Sprint]
- https://github.com/MertGult/BootcampScrumTemplate/blob/c1753146ec49cd09c18b1c0e78b4431c0247a509/Daily%20Scrum%20Notlar%C4%B1%201.Sprint.docx 
+- **Daily Scrum:** It was decided that Daily Scrum meetings would be held via WhatsApp due to time constraints. Our Daily Scrum meetings are shared as a Word document in the Readme: *"Daily Scrum Notları 1.Sprint"*
 
-- **Sprint board update**: Sprint board screenshotları: 
-https://github.com/MertGult/BootcampScrumTemplate/blob/5a4efee188046b5eb6026fa2fb8aa69a96b6c333/Sprint%201%20Backlog.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/5a4efee188046b5eb6026fa2fb8aa69a96b6c333/Sprint%201%20Burndown.png 
-
-- **Ürün Durumu**: Ekran görüntüleri:
-https://github.com/MertGult/BootcampScrumTemplate/blob/5a4efee188046b5eb6026fa2fb8aa69a96b6c333/Title%20Screen.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/main/Harita%201.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/main/Harita%202.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/main/Karakter.png 
+- **Sprint board update:** Sprint board screenshots: 
+<img width="815" height="538" alt="Sprint 1 Backlog" src="https://github.com/user-attachments/assets/9414f11b-84c1-4257-88b4-65d97985d3ea" />
+<img width="645" height="599" alt="Sprint 1 Burndown" src="https://github.com/user-attachments/assets/2e35d813-fb74-4c46-a7e1-457096348695" />
 
 
-- **Sprint Review**: 
-Alınan kararlar: 
-- 1-	Oyunun hayatta kalma ve gerilim üzerine olmasının daha verimli ve sürdürülebilir olacağına karar verildi. Bu bağlamda adının “Survival of the Fallen” olmasında karar kılındı.
-- 2-	Oyunun hikayesinin bir şirketin sürdürdüğü bir deney veya deneyin sonuçlarından ötürü olabileceğine dair bir taslak oluşturuldu. 
-•	Bu taslakta haritaya gönderilen “dışlanmış” insanlar haritadaki materyalleri kullanarak içindeki elementlere (vahşi hayvan, diğer insanlar, yaratıklar vb.) karşı koyup hayatta kalarak kazanacağı bir hikayeye sahip olabileceği konuşuldu.
-•	Karakterimizi iyi yapmak için oyuna pasif kararlar eklenebileceği konuşuldu. Ayrıca bunun için farklı haritalar veya koşullar sunarak her oynanışta farklı deneyim sunmanın da eklenebileceği konuşuldu.
-•	Oyunda gündüz/gece dinamiklerinin olabileceği, duruma göre farklı etkinlikler veya farklı yaratıklar ortaya çıkabileceği konuşuldu. Gündüz daha çok biriktirme ve toplama aşaması olup geceleri de topladıklarımızla hayatta kalma gibi bir dinamiğin eklenebileceği tartışıldı.
-- 3-	Product Backlog Miro üzerinde güncellendi ve ekiple yapılacaklar paylaşıldı. 
-Bu durumda:
-•	Başlangıç harita tasarımı – Ebrar
-•	Hub + Store tasarımı – Efe
-•	Envanter + UI tasarımı – Beyzanur 
-Görevleri eklendi. Bir sonraki toplantımızda ilerlemeleri ve geri dönütleri göz önünde bulundurularak backlog tekrar düzenlenecek. 
+- **Product Status:** Screenshots;
+<img width="593" height="322" alt="Title Screen" src="https://github.com/user-attachments/assets/91183cf0-5cfd-4099-8b92-495c2c887487" />
+<img width="590" height="245" alt="Harita 1" src="https://github.com/user-attachments/assets/48f09901-a5e8-4779-9a0d-2b48a9bce121" />
+<img width="536" height="247" alt="Harita 2" src="https://github.com/user-attachments/assets/758aa15f-127a-4fc6-83f4-bbd0b7d43908" />
+<img width="308" height="453" alt="Karakter" src="https://github.com/user-attachments/assets/f48410b3-8bda-42af-9d61-e7adc80793b6" />
+
+
+
+
+
+
+- **Sprint Review:** 
+Decisions made:
+- 1-	It was decided that focusing the game on survival and thriller would be more productive and sustainable. In this context, the name "Survival of the Fallen" was chosen.
+- 2-	A draft was created about the game's story possibly being related to an experiment conducted by a corporation or the consequences of such an experiment. 
+•	In this draft, it was discussed that "outcasts" sent to the map would use the materials on the map to resist the elements within it (wild animals, other humans, creatures, etc.) and survive to win.
+•	It was discussed that passive decisions could be added to make our character morally good. Additionally, it was discussed that offering different maps or conditions could provide a different experience with each playthrough.
+•	It was discussed that the game could have day/night dynamics, with different events or different creatures appearing depending on the situation. During the day would be more of a gathering and collecting phase, while at night a dynamic of surviving with what was collected could be added.
+- 3-	The Product Backlog was updated on Miro and tasks were shared with the team.
+In this case:
+•	Starting map design – Ebrar
+•	Hub + Store design – Efe
+•	Inventory + UI design – Beyzanur 
+These tasks were added. At the next meeting, the backlog will be reorganized considering progress and feedback.
+
 
 - **Sprint Retrospective:**
-  Oyun tasarımındaki sürecimiz değerlendirildi ve sürdürülebilirlik açısından developer ekibin iş birliğinde olması ve daha kolay çalışabilmesi adına Miro veya Slack üzerinden kullandıkları asset/framework/version bilgilerinin paylaşılabileceğine karar verildi.
-•	Ayrıca Daily Scrum’ın 10 dakikalık mesajlaşma şeklinde yapılacağı hatırlatıldı.
+Our game design process was evaluated, and it was decided that for sustainability purposes, the developer team could share the asset/framework/version information they use via Miro or Slack to collaborate better and work more easily.
+•	Additionally, it was reminded that the Daily Scrum would be conducted as 10-minute messaging sessions.
 
 ---
 
 # Sprint 2
 
-- **Sprint Notları:** Sprint boyunca yapılanlar ve bir sonraki Sprint'te yapılacak olan görevler Miro'da Product Backlog'a işlendi. Kalan görevlerin son sprint'te tamamlanacağına karar verildi.
+- **Sprint Notes:** Tasks completed during the sprint and tasks to be done in the next Sprint were recorded in the Product Backlog on Miro. It was decided that the remaining tasks would be completed in the final sprint.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **SEstimated points to be completed in the sprint: ** 100 Points.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 2. Sprint'te de 100 puan ile devam edilmesine karar verilmiştir.
+- **Point completion logic:** There is a total of 300 points worth of backlog to be completed throughout the project. It was decided to continue with 100 points in the 2nd Sprint as well.
+- 
+- **Backlog order and Story selections:**Tasks were decided during weekly meetings, and the points for assigned tasks were calculated. Tasks decided to be completed in Sprint 1 were completed, and new ones were added. Task scores are tagged and color-coded within each task. It was decided that incomplete tasks would be completed in the next sprint.
 
-- **Backlog düzeni ve Story seçimleri**: Haftalık yapılan toplantılar doğrultusunda task'lere karar verilmiş, atanan task'lerin puanları hesaplanmıştır. 1.Sprint'te tamamlanması karar verilen task'ler tamamlanmış, yenileri eklenmiştir. Task puanlamaları her bir task içinde "tag" olarak puanlanmış ve renkelrle kodlanmıştır. Tamamlanamayan task'lerin bir sonraki sprint'te tamamlanacağına karar verilmiştir.
+**Daily Scrum:** Our Daily Scrum meetings are shared as a Word document in the Readme: *Daily Scrum Notes Sprint 2*
 
-**Daily Scrum**: Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 1.Sprint]
-https://github.com/MertGult/BootcampScrumTemplate/blob/cbb151a75de8581442215c4864c81b6eb4adf055/Daily%20Scrum%20Notlar%C4%B1%202.Sprint.docx
+- **Sprint board update:** Sprint board screenshots:
+<img width="1052" height="543" alt="Sprint 2 Miro Product backlog" src="https://github.com/user-attachments/assets/2b0898ec-d62d-47ef-afc5-9a77763d17a1" />
+<img width="507" height="548" alt="Sprint 2 Burndown Chart" src="https://github.com/user-attachments/assets/bb28a859-e926-4df8-9fb1-531ab62ad984" />
 
-- **Sprint board update**: Sprint board screenshotları:
-https://github.com/MertGult/BootcampScrumTemplate/blob/df5265dbc01e2a26529af5aa51efb1055366472d/Sprint%202%20Miro%20Product%20backlog.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/df5265dbc01e2a26529af5aa51efb1055366472d/Sprint%202%20Burndown%20Chart.png
 
-- **Ürün Durumu**: Ekran görüntüleri:
-https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Bas%CC%A7lang%C4%B1c%CC%A7%20haritas%C4%B1%201.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Bas%CC%A7lang%C4%B1c%CC%A7%20haritas%C4%B1%202.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Bas%CC%A7lang%C4%B1c%CC%A7%20haritas%C4%B1%203.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/f0da262cb271d051ec5996345b18b78137484d86/Can%20ve%20ac%CC%A7l%C4%B1k%20UI.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570e88e0e25bcac567/Hapishane%201.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570e88e0e25bcac567/Hapishane%202.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570e88e0e25bcac567/Hapishane%203.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570e88e0e25bcac567/Hapishane%204.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570e88e0e25bcac567/Hapishane%205.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/f85b526c2dae18effcaaae570e88e0e25bcac567/Hapishane%206.jpeg
 
-- **Sprint Review**:
-- 1-	Efe oyun haritasındaki ilerlemesini paylaştı ve böylece oyunumuzun büyük bir kısmı tamamlanmış oldu.
-- 2-	Efe tamamladığı haritayı Google drive’a aktardı ve Beyzanur üzerinde çalışmaya devam edecek.
-- 3-	Efe oyunun savaş mekanikleriyle ilgili çalışmalar yapacak: Silah tutma, elle saldırılar, karakter animasyonları.
-- 4-	Beyzanur oyuna saat, açlık gibi UI elementleri eklemek üzerine çalışacak. 
-- 5-	Ebrar oyunun ilk haritası olan orman kısmında çalışmalarına devam edecek. Bu kısım trailer’da da kullanılabilir.
-- 6-	Takas edilebilecek meyve/sebzeler için ormana çeşitli asset’ler eklenecek. Bu kaynaklar toplanıp eşya takasında kullanılabilecek.
-- 7-	Sabah/gece döngüsünde oyuncuyu biraz daha germek için siren veya kurt uluma sesleri eklenebilir.
-- 8-	Oyuna eklenebilecek yan görevler üzerine konuşuldu: Hikaye elementlerine göre X sayıda gizlenmiş eşya toplama, hayvanlarla savaşarak diş toplama, haritanın bir ucundaki kulübeye gidip elektriği aktive etme gibi görevler yapılabilir.
+- **Product Status:** Screenshots:
 
-- **Sprint Retrospective:**
-- Oyunun büyük bir kısmında ilerleme sağlandı. Tamamlananan oyunun bir sonraki Sprint'te hikaye ile desteklenmesi gerektiğine karar verildi.
+<img width="1403" height="652" alt="Başlangıç haritası 1" src="https://github.com/user-attachments/assets/fe9ed8d2-f376-4d35-841a-6658f1e75965" />
+<img width="889" height="652" alt="Başlangıç haritası 2" src="https://github.com/user-attachments/assets/a3c4fbb0-f0b5-4c56-9dab-beac65f876af" />
+<img width="1400" height="652" alt="Başlangıç haritası 3" src="https://github.com/user-attachments/assets/3834153d-a783-4180-9992-b476daafcc9b" />
+<img width="642" height="309" alt="Can ve açlık UI" src="https://github.com/user-attachments/assets/892d7f9c-f533-4a6a-a7c1-8a20a2bf0acf" />
+![Hapishane 1](https://github.com/user-attachments/assets/8df41c8a-d91d-4f4f-b20c-dc6bcd936f0d)
+![Hapishane 2](https://github.com/user-attachments/assets/cf14c4c4-1cd2-47e7-b147-86a921ae938d)
+![Hapishane 3](https://github.com/user-attachments/assets/b6ff08de-9a95-4d1d-954f-e4586ff888da)
+![Hapishane 4](https://github.com/user-attachments/assets/4b92a703-c8a9-4d25-9962-5ca11ca4c32d)
+![Hapishane 5](https://github.com/user-attachments/assets/9de0dad1-593e-4e3e-9eab-135828c67053)
+![Hapishane 6](https://github.com/user-attachments/assets/7c888e0d-b877-4cd9-a07b-edd2714a06b1)
+
+
+
+
+
+
+
+
+- **Sprint Review:**
+- 1- Efe shared his progress on the game map, and thus a large portion of our game was completed.
+- 2- Efe transferred the completed map to Google Drive, and Beyzanur will continue working on it.
+- 3- Efe will work on the game's combat mechanics: weapon holding, melee attacks, character animations.
+- 4- Beyzanur will work on adding UI elements such as a clock and hunger meter to the game.
+- 5- Ebrar will continue working on the forest section, which is the game's first map. This part can also be used in the trailer.
+- 6- Various assets for tradeable fruits/vegetables will be added to the forest. These resources can be collected and used in item trading.
+- 7- Siren or wolf howling sounds could be added during the day/night cycle to increase tension for the player.
+- 8- Side quests that could be added to the game were discussed: collecting a certain number of hidden items based on story elements, collecting teeth by fighting animals, going to a cabin at the edge of the map to activate the electricity, and similar tasks.
+  
+
+- **Sprint Retrospective:** Significant progress was made on a large portion of the game. It was decided that the completed game needs to be supported with a story in the next Sprint.
 
 ---
 
 # Sprint 3
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notes:** User Stories are written inside the product backlog items. Story details can be read by clicking on the product backlog items.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Estimated points to be completed in the sprint:** 100 Points.
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Point completion logic:** There is a total of 300 points worth of backlog to be completed throughout the project. When divided into 3 sprints, it was decided that the last sprint should start with at least 100.
 
-- **Backlog düzeni ve Story seçimleri**: Haftalık yapılan toplantılar doğrultusunda task'lere karar verilmiş, atanan task'lerin puanları hesaplanmıştır. 1.Sprint'te tamamlanması karar verilen task'ler tamamlanmış, yenileri eklenmiştir. Task puanlamaları her bir task içinde "tag" olarak puanlanmış ve renkelrle kodlanmıştır. Tamamlanamayan task'lerin bir sonraki sprint'te rejected kısmına eklenmiştir.
+- **Backlog order and Story selections:** Tasks were decided during weekly meetings, and the points for assigned tasks were calculated. Tasks decided to be completed in Sprint 1 were completed, and new ones were added. Task scores are tagged and color-coded within each task. Incomplete tasks were added to the rejected section in the next sprint.
 
-- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış olanları, mavi item'lar story'leri temsil etmektedir.
+- Stories have been divided into tasks. On the Miro Board, red items represent tasks to be done, yellow items represent tasks in progress, green items represent completed tasks, and blue items represent stories.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantılarımız Word dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Notları 3.Sprint]
-
-
-
-- **Sprint board update**: Sprint board screenshotları: 
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/Sprint%203%20Product%20Backlog.png 
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/Sprint%203%20Burndown%20Chart.png
+- **Daily Scrum**: It was decided that Daily Scrum meetings would be held via WhatsApp due to time constraints. Our Daily Scrum meetings are shared as a Word document in the Readme: *Daily Scrum Notları 3.Sprint*
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-- Title Screen
-https://github.com/MertGult/BootcampScrumTemplate/blob/main/Title%20Screen.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/courtyard.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/third%20person.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/village.png 
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/wolves.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/moon.png
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/hunger%20meter.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/cfb33a5578c8605160e690c59ce2ff69ceac930f/nighttime%20timer.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70705a7e74eebe5f5/In%20game.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/e44461f9d3dbd46e9ba32bd70705a7e74eebe5f5/dialogue.jpeg
-https://github.com/MertGult/BootcampScrumTemplate/blob/e5e70fa3fea32d23dfdc30d8d40e211e295960c7/End%20Screen.png
+
+- **Sprint board update**: Sprint board screenshots: 
+<img width="742" height="599" alt="Sprint 3 Product Backlog" src="https://github.com/user-attachments/assets/25808d69-9054-446d-8649-813adc5fedc3" />
+<img width="584" height="595" alt="Sprint 3 Burndown Chart" src="https://github.com/user-attachments/assets/d45f992d-ee5e-41a3-8e73-70d9cdc706a8" />
+
+
+
+
+
+
+- **Product Status:** Screenshots:
+<img width="1352" height="768" alt="courtyard" src="https://github.com/user-attachments/assets/b49e6055-c61e-40c5-9a21-6873fcf5531e" />
+<img width="1348" height="620" alt="third person" src="https://github.com/user-attachments/assets/cd49fb71-615a-4d23-afcc-1d4b78faa7e9" />
+
+<img width="1348" height="611" alt="village" src="https://github.com/user-attachments/assets/437a5ead-c01c-4336-9c8b-3705d0f3db9b" />
+
+<img width="1337" height="600" alt="wolves" src="https://github.com/user-attachments/assets/3bdc9fa7-3a90-4cbc-b582-7d96229f8e78" />
+
+
+<img width="1344" height="608" alt="moon" src="https://github.com/user-attachments/assets/15e22222-b31f-48c2-b264-40f394ed8ead" />
+
+![In game](https://github.com/user-attachments/assets/9c4d79f4-0a5e-469c-8e1a-495272b43856)
+
+![dialogue](https://github.com/user-attachments/assets/dc3a3e34-412e-481b-8059-c648e9669421)
+
+
+<img width="1920" height="1080" alt="End Screen" src="https://github.com/user-attachments/assets/f5003e23-ec64-4186-af2a-5722e28dd10f" />
+
+
 
 
 - **Sprint Review**:
-- 1- Ebrar: Oyunda kullanılacak not sistemini tamamladı. Notlara rakamlar yerleştirip bunları hazırladığı Keycard UI üzerinde kullanmayı sağladı. Oyuna puzzle oyunlarını ekledi.
-- 2- Ebrar: Ana menü tasarımını tamamladı. Menüye “Start Game, Sound On/Off, Exit” seçeneklerini ekledi ve arkaplana müzik ekledi.
-- 3- Beyzanur: Diyalog için UI hazırladı.
-- 4- Beyzanur: NPC’lere tuş tetikleyerek konuşulabilmesi için bir yöntem geliştirdi.
-- 5- Efe: Oyuna açlık metresi ekledi ve 0 olduğunda oyun siyah/beyaz oluyor. Düşmanlara yaklaştığında can azalması mekaniğini ekledi.
-- 6- Efe: Düşmanlara sadece vurulduğunda canlarının gitmesi üzerine çalıştı. Beyzanur’un gönderdiği UI oyuna ekledi. Ebrar’ın hazırladığı başlangıç haritasını oyuna ekledi. Oyun haritasının kuzeybatı kısmındaki kulübeye elektrik şalteri ekleyecek. Hapishanenin ön kısmına bir güvenlik kulübesi ekleyerek önündeki NPC ile konuşabilmemizi sağladı.
-- 7-	Mert: Oyunda hikayeyi anlatan diyalogları tamamladı. Oyunun ilerleyişini belirleyen diyaloglar üzerinde çalıştı.
-- 8-	Mert: Oyun için Game Design Document hazırladı.
-- 9-	Ahsen & Mert: Trailer planlaması yapacak. Hangi müziğin ekleneceği ve neler gösterileceğine dair planlamalar yapacak. Planlamalar Efe ile paylaşılıp trailer haline getirilmesi için çekimler yapılacak.
+- 1- Ebrar: Completed the note system to be used in the game. She placed numbers in notes and enabled their use on the Keycard UI she prepared. She added puzzle games to the game.
+- 2- Ebrar: Completed the main menu design. She added "Start Game, Sound On/Off, Exit" options to the menu and added background music.
+- 3- Beyzanur: Prepared a UI for dialogue.
+- 4- Beyzanur: Developed a method for talking to NPCs by pressing a key.
+- 5- Efe: Added a hunger meter to the game; when it reaches 0, the game turns black and white. Added the mechanic of health decreasing when approaching enemies.
+- 6- Efe: Worked on making enemies lose health only when hit. Added the UI sent by Beyzanur to the game. Added the starting map prepared by Ebrar to the game. Will add an electricity switch to the cabin in the northwest part of the game map. Added a security booth in front of the prison, enabling conversation with the NPC in front of it.
+- 7- Mert: Completed the dialogues that tell the story in the game. Worked on dialogues that determine the game's progression.
+- 8- Mert: Prepared a Game Design Document for the game.
+- 9- Ahsen & Mert: Will plan the trailer. Will plan what music to add and what to show. The plans will be shared with Efe, and recordings will be made to turn them into a trailer.
 
 
-- **Sprint Retrospective:** Tüm sprint boyunca iletişimde kalındı ve zaman sıkıntısından ötürü planlanan birçok öğeden vazgeçildi. Bu içerikler Game Design Document'ta anlatıldı ve oyunun sürdürebilirliğini kanıtlamak amacıyla ilerleyen zamanlarda oyuna ek içerik olarak eklenebileceği söylendi. 
+- **Sprint Retrospective:** Communication was maintained throughout the entire sprint, and many planned items were abandoned due to time constraints. These contents were described in the Game Design Document, and it was stated that they could be added as additional content to the game in the future to prove the game's sustainability. 
 
-https://github.com/MertGult/BootcampScrumTemplate/blob/6a11cbc71cb7d1982d8921fed5281d42b20fb6f2/Survival%20of%20the%20Fallen%20GDD.pdf 
+![GDD Document](https://github.com/Efe-Oral/Survival_of_the_Fallen/blob/main/Survival%20of%20the%20Fallen%20GDD.pdf)
 ---
